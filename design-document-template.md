@@ -1,4 +1,4 @@
-**CMSI 3700** Interaction Design, Fall 2025
+**CMSI 3700** Interaction Design, Fall 2026
 
 # Dream Design Report Template
 
